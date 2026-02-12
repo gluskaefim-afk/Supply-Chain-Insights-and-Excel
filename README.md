@@ -1,6 +1,7 @@
 # 📦 Supply Chain SLA & Profitability Analysis
 Operational Degradation Investigation | January 2025
---- 
+
+---
 # 📌 Project Overview
 This project analyzes a mid-sized Central European e-commerce company operating in: Slovakia, Czechia, Hungary, Poland.
 The company operates 2 warehouses (WH_A, WH_B) and processes ~2,200 orders per month.
@@ -28,7 +29,6 @@ SKU-level profitability review,
 Order-level profitability segmentation,
 Volume vs price sensitivity analysis.
 
----
 
 # 📉 Key Findings – Operational Side
 
@@ -41,7 +41,6 @@ Volume vs price sensitivity analysis.
 # Conclusion:
 The SLA degradation is systemic, not localized. The issue likely stems from process-level changes rather than isolated operational failures.
 
----
 
 # 💰 Key Findings – Profitability Side
 
@@ -63,9 +62,9 @@ Unit price,
 Cost allocation structure,
 The key driver is increasing average order value, not just quantity.
 
----
 
-🛠 Business Recommendations
+# 🛠 Business Recommendations
+
 1. Discount Policy:
 Restrict discounts for 1–2 unit orders,
 Introduce minimum order value for discount eligibility.
@@ -78,8 +77,8 @@ Introduce paid shipping below threshold.
 Review fixed cost allocation,
 Convert part of fixed cost into variable structure.
 
----
-📊 Deliverables
+
+# 📊 Deliverables
 
 ⁕ Python analytical notebook,
 ⁕ Interactive Excel dashboard (pre/post structural break comparison),
